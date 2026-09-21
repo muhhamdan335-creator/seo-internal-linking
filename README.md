@@ -68,18 +68,11 @@ Rekomendasi disusun dengan mempertimbangkan relevansi topik, konteks kalimat, al
 
 ---
 
-## Contoh Dokumentasi
+## Dokumentasi
 
 | Task dan Komunikasi Proyek | Internal Linking Opportunity Sheet |
 |---|---|
 | <img src="assets/screenshots/internal-linking-task.png" alt="Task internal linking yang telah dianonimkan" width="350"> | <img src="assets/screenshots/internal-linking-opportunity-sheet.png" alt="Spreadsheet internal linking yang telah dianonimkan" width="350"> |
-
-*Gambar 1. Contoh task proyek dan internal linking opportunity sheet yang telah dianonimkan.*
-
-### Dokumentasi Pendukung
-
-- [Detail Internal Linking Opportunity Sheet](assets/screenshots/internal-linking-opportunity-sheet-detail.png)
-- [Contoh Source-to-Destination Mapping](assets/screenshots/source-destination-mapping-example.png)
 
 ---
 
