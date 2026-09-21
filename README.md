@@ -13,7 +13,6 @@
 | Ruang Lingkup | Review konten, pemetaan source-destination, identifikasi konteks, dan rekomendasi anchor text |
 | Kolaborasi | Koordinasi proses review dan implementasi dengan tim terkait |
 | Tools | Google Sheets, Google Docs, Project Management Platform, Existing Website Content |
-| Klien | Dianonimkan untuk kebutuhan portofolio |
 
 ---
 
@@ -160,14 +159,6 @@ Seluruh screenshot dan dokumentasi berikut telah dianonimkan untuk menjaga kerah
 |---|---|
 | <img src="assets/screenshots/internal-linking-task.png" alt="Task dan komunikasi proyek internal linking yang telah dianonimkan" width="350"> | <img src="assets/screenshots/internal-linking-opportunity-sheet.png" alt="Spreadsheet internal linking berisi source URL, destination URL, suggested anchor text, dan konteks penempatan yang telah dianonimkan" width="350"> |
 
-*Gambar 1. Contoh task proyek dan internal linking opportunity sheet yang telah dianonimkan.*
-
-### Dokumentasi Pendukung
-
-- [Detail Internal Linking Opportunity Sheet](assets/screenshots/internal-linking-opportunity-sheet-detail.png)
-- [Contoh Source-to-Destination Mapping](assets/screenshots/source-destination-mapping-example.png)
-- [Contoh Rekomendasi Anchor Text](assets/screenshots/suggested-anchor-text-example.png)
-
 ---
 
 ## Tools
@@ -175,6 +166,7 @@ Seluruh screenshot dan dokumentasi berikut telah dianonimkan untuk menjaga kerah
 - **Google Sheets** — Pemetaan internal link, dokumentasi, review, dan tracking.
 - **Google Docs / Project Management Platform** — Komunikasi task, review, dan koordinasi.
 - **Existing Website Content** — Analisis konten, relevansi topik, dan peluang penempatan internal link.
+- **Screaming Frog**
 
 ---
 
