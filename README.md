@@ -90,7 +90,3 @@ Rekomendasi disusun dengan mempertimbangkan relevansi topik, konteks kalimat, al
 **Kompetensi:** Internal Linking Strategy, On-Page SEO, Content Analysis, Search Intent Analysis, Anchor Text Recommendation, Spreadsheet Management, dan Cross-Team Collaboration.
 
 ---
-
-## Catatan Kerahasiaan
-
-Nama klien, domain, URL, screenshot, dan data internal telah dianonimkan atau disamarkan untuk kebutuhan portofolio. Materi ini hanya digunakan untuk menunjukkan proses kerja dan pendekatan analisis internal linking.
