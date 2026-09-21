@@ -153,8 +153,6 @@ Proyek ini menghasilkan **Internal Linking Opportunity Sheet** yang berisi:
 
 ## Contoh Dokumentasi
 
-Seluruh screenshot dan dokumentasi berikut telah dianonimkan untuk menjaga kerahasiaan data klien.
-
 | Task dan Komunikasi Proyek | Internal Linking Opportunity Sheet |
 |---|---|
 | <img src="assets/screenshots/internal-linking-task.png" alt="Task dan komunikasi proyek internal linking yang telah dianonimkan" width="350"> | <img src="assets/screenshots/internal-linking-opportunity-sheet.png" alt="Spreadsheet internal linking berisi source URL, destination URL, suggested anchor text, dan konteks penempatan yang telah dianonimkan" width="350"> |
